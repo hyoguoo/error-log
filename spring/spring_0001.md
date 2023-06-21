@@ -1,3 +1,8 @@
+## 키워드
+
+- Spring(스프링)
+- 순환 참조(Circular Reference)
+
 ## 발생 시점
 
 Spring 의존성 주입 시 자기 자신 주입하여 순환 참조 발생
